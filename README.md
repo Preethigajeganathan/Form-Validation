@@ -2,6 +2,10 @@
 
 A responsive and interactive Form Validation project built using **HTML, CSS, and JavaScript**. The application validates user input in real time and displays error messages when invalid data is entered.
 
+## 🚀 Live Demo  
+
+🔗 https://preethigajeganathan.github.io/Form-Validation/
+
 ## 🚀 Features
 
 * Real-time form validation
@@ -19,7 +23,7 @@ A responsive and interactive Form Validation project built using **HTML, CSS, an
 ```text
 form-validation/
 │
-├── form.html
+├── index.html
 ├── form.css
 ├── form.js
 └── README.md
@@ -59,13 +63,13 @@ form-validation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/form-validation.git
+git clone https://github.com/your-username/Form-Validation.git
 ```
 
 ### 2. Open the Project Folder
 
 ```bash
-cd form-validation
+cd Form-Validation
 ```
 
 ### 3. Launch the Application
