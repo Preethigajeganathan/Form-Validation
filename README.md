@@ -141,7 +141,7 @@ Developed as a JavaScript practice project to improve understanding of client-si
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License. 
 
 ## ⭐ Support
 
